@@ -16,9 +16,10 @@
     font-size: 20px;
 }
 
-.big-card__description > p > a {
+.big-card__description > p  {
     margin-top: 10px;
     color: grey;
+    text-align: justify;
 }
 
 .big-card__photo > img{
